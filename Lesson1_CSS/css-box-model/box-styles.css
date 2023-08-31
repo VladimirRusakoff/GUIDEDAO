@@ -1,0 +1,33 @@
+h1, p {
+    background-color: #f1eeee;
+}
+
+h1 {
+    padding: 50px;
+    border-bottom: 1px solid #0b24fb;
+}
+
+/*p {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}*/
+/*p {
+    padding: 20px 10px; /* Тут сверху и снизу отступ 20рх, а слева и справа 10рх 
+}*/
+
+p {
+    padding: 20px 0 20px 10px; /* Сверху 20рх, справа 0, снизу 20рх, слева 10рх, */
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+
+em, strong {
+    background-color: #29fd2f;
+    display: inline;
+}
+
+strong {
+    padding: 50px
+}
